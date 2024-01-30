@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LionRom, LLC - Making A Way with R.O.M. Apparel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #004080;
+            color: #fff;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        h2 {
+            color: #004080;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #004080;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>LionRom, LLC</h1>
+        <p>Making A Way with R.O.M. Apparel</p>
+    </header>
+
+    <section>
+        <h2>About Us</h2>
+        <p>LionRom, LLC is your go-to destination for high-quality, personalized apparel through our R.O.M. line.
+            Introducing the new R.O.M. apparel, we believe in providing expedited service with great quality. We specialize
+            in everything polyester sublimation for various occasions, including family events, sports events, school
+            events, family cruises, graduations, office parties, special recognitions, birthdays, milestones, consulting,
+            operations management, jogging suits, game or practice sporting jerseys, hoodies, casual, business, or work
+            poly-performance garments, banners, floor mats, anniversaries, and more.</p>
+        <p>Step out and BE STRONG in yourself and what you wear! #ROMUP</p>
+    </section>
+
+    <section>
+        <h2>Colors</h2>
+        <p>Your colors: Blue and Maze, and Black and Yellow.</p>
+    </section>
+
+    <section>
+        <h2>Fanatic Passion</h2>
+        <p>As a die-hard Michigan Wolverine and Pittsburgh Steeler fan, we understand and share your passion for
+            greatness!</p>
+    </section>
+
+    <footer>
+        <p>LionRom - Strong Man on the Move | &copy; 2024 LionRom, LLC</p>
+    </footer>
+
+</body>
+
+</html>
